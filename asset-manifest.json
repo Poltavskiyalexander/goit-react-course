@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/goit-react-course/static/css/main.7bf00d59.chunk.css",
-    "main.js": "/goit-react-course/static/js/main.130709f6.chunk.js",
-    "main.js.map": "/goit-react-course/static/js/main.130709f6.chunk.js.map",
-    "runtime-main.js": "/goit-react-course/static/js/runtime-main.74e50ac8.js",
-    "runtime-main.js.map": "/goit-react-course/static/js/runtime-main.74e50ac8.js.map",
-    "static/js/2.ec56a0ab.chunk.js": "/goit-react-course/static/js/2.ec56a0ab.chunk.js",
-    "static/js/2.ec56a0ab.chunk.js.map": "/goit-react-course/static/js/2.ec56a0ab.chunk.js.map",
-    "index.html": "/goit-react-course/index.html",
-    "static/css/main.7bf00d59.chunk.css.map": "/goit-react-course/static/css/main.7bf00d59.chunk.css.map",
-    "static/js/2.ec56a0ab.chunk.js.LICENSE.txt": "/goit-react-course/static/js/2.ec56a0ab.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.7bf00d59.chunk.css",
+    "main.js": "./static/js/main.130709f6.chunk.js",
+    "main.js.map": "./static/js/main.130709f6.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.9382c4fd.js",
+    "runtime-main.js.map": "./static/js/runtime-main.9382c4fd.js.map",
+    "static/js/2.ec56a0ab.chunk.js": "./static/js/2.ec56a0ab.chunk.js",
+    "static/js/2.ec56a0ab.chunk.js.map": "./static/js/2.ec56a0ab.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.7bf00d59.chunk.css.map": "./static/css/main.7bf00d59.chunk.css.map",
+    "static/js/2.ec56a0ab.chunk.js.LICENSE.txt": "./static/js/2.ec56a0ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.74e50ac8.js",
+    "static/js/runtime-main.9382c4fd.js",
     "static/js/2.ec56a0ab.chunk.js",
     "static/css/main.7bf00d59.chunk.css",
     "static/js/main.130709f6.chunk.js"
