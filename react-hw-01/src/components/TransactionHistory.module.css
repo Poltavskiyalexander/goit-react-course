@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.transaction_history {
+  width: 875px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.title {
+  background: #4ad5f1;
+  height: 50px;
+  text-transform: uppercase;
+  color: white;
+}
+.type,
+.amount,
+.currency {
+  height: 50px;
+  text-align: center;
+}
+tr:nth-child(2n) {
+  background: #eef0f0;
+}
+.type {
+  text-transform: capitalize;
+}
