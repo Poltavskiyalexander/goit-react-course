@@ -3,9 +3,8 @@
   padding: 0;
 }
 .wraper {
-  background-image: url(Apple.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: bisque;
+  height: 100vh;
 }
 .container {
   width: 500px;
@@ -38,8 +37,7 @@ button {
   color: #fff;
   background-color: #e4c7c7;
   border: none;
-  border-radius: 15px;
-  box-shadow: 0 9px #999;
+  border-radius: 10px;
 }
 
 button:hover {
@@ -56,6 +54,5 @@ input {
   height: 20px;
   border-radius: 15px;
   border: none;
-  box-shadow: 0 9px #999;
   margin: 20px;
 }
