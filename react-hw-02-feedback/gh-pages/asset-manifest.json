@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/goit-react-course/react-hw-02-feedback/gh-pages/static/css/main.b37dd622.chunk.css",
+    "main.js": "/goit-react-course/react-hw-02-feedback/gh-pages/static/js/main.a800fd78.chunk.js",
+    "main.js.map": "/goit-react-course/react-hw-02-feedback/gh-pages/static/js/main.a800fd78.chunk.js.map",
+    "runtime-main.js": "/goit-react-course/react-hw-02-feedback/gh-pages/static/js/runtime-main.7c4b9597.js",
+    "runtime-main.js.map": "/goit-react-course/react-hw-02-feedback/gh-pages/static/js/runtime-main.7c4b9597.js.map",
+    "static/js/2.e9a5ac29.chunk.js": "/goit-react-course/react-hw-02-feedback/gh-pages/static/js/2.e9a5ac29.chunk.js",
+    "static/js/2.e9a5ac29.chunk.js.map": "/goit-react-course/react-hw-02-feedback/gh-pages/static/js/2.e9a5ac29.chunk.js.map",
+    "index.html": "/goit-react-course/react-hw-02-feedback/gh-pages/index.html",
+    "static/css/main.b37dd622.chunk.css.map": "/goit-react-course/react-hw-02-feedback/gh-pages/static/css/main.b37dd622.chunk.css.map",
+    "static/js/2.e9a5ac29.chunk.js.LICENSE.txt": "/goit-react-course/react-hw-02-feedback/gh-pages/static/js/2.e9a5ac29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c4b9597.js",
+    "static/js/2.e9a5ac29.chunk.js",
+    "static/css/main.b37dd622.chunk.css",
+    "static/js/main.a800fd78.chunk.js"
+  ]
+}
