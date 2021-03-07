@@ -5,6 +5,7 @@
 /gh-pages
 /.pnp
 .pnp.js
+/react-hw-07-phonebook
 
 # testing
 /coverage
