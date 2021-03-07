@@ -19,6 +19,7 @@ class App extends Component {
   };
 
   getImg = data => {
+    
     this.setState({ isLoad: true });
     PiaxabayApi.getPicture(data, this.state.page)
       .then(images =>
@@ -31,6 +32,7 @@ class App extends Component {
       .finally(this.setState({ isLoad: false }));
   };
   serchSubmit = data => {
+    this.setState({img: []});
     this.getImg(data);
   };
   clickHandler = () => {
