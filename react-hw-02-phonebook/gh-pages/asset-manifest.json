@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/goit-react-course/react-hw-02-phonebook/gh-pages/static/css/main.94b04994.chunk.css",
+    "main.js": "/goit-react-course/react-hw-02-phonebook/gh-pages/static/js/main.db86e8d7.chunk.js",
+    "main.js.map": "/goit-react-course/react-hw-02-phonebook/gh-pages/static/js/main.db86e8d7.chunk.js.map",
+    "runtime-main.js": "/goit-react-course/react-hw-02-phonebook/gh-pages/static/js/runtime-main.7d37b1d0.js",
+    "runtime-main.js.map": "/goit-react-course/react-hw-02-phonebook/gh-pages/static/js/runtime-main.7d37b1d0.js.map",
+    "static/js/2.83be8fef.chunk.js": "/goit-react-course/react-hw-02-phonebook/gh-pages/static/js/2.83be8fef.chunk.js",
+    "static/js/2.83be8fef.chunk.js.map": "/goit-react-course/react-hw-02-phonebook/gh-pages/static/js/2.83be8fef.chunk.js.map",
+    "index.html": "/goit-react-course/react-hw-02-phonebook/gh-pages/index.html",
+    "static/css/main.94b04994.chunk.css.map": "/goit-react-course/react-hw-02-phonebook/gh-pages/static/css/main.94b04994.chunk.css.map",
+    "static/js/2.83be8fef.chunk.js.LICENSE.txt": "/goit-react-course/react-hw-02-phonebook/gh-pages/static/js/2.83be8fef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d37b1d0.js",
+    "static/js/2.83be8fef.chunk.js",
+    "static/css/main.94b04994.chunk.css",
+    "static/js/main.db86e8d7.chunk.js"
+  ]
+}
